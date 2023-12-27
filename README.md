@@ -1,4 +1,4 @@
-![cv](https://github.com/marcosvhd1/cv/public/cv.png)
+![cv](https://github.com/marcosvhd1/cv/blob/main/public/cv.png)
 
 # CV
 
